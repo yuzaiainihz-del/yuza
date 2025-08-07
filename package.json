@@ -1,0 +1,12 @@
+{
+  "name": "roblox-http-chat-api",
+  "version": "1.0.0",
+  "description": "极简 HTTP 聊天中继 API，供 Roblox 跨服聊天使用",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
